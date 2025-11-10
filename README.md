@@ -1,5 +1,6 @@
+Talip Colak Data-Analytics-Portfolio
+
 + 📊 Project: Sales, Inventory & Marketing BI Dashboards
-+ 🏢 Company: Chef's Deal Restaurant Equipment
 + 🎯 Goal: End-to-end visibility on traffic, sales, inventory and profitability
 + 📚 Data sources: GA4, Bing Ads, internal sales & inventory data
 
