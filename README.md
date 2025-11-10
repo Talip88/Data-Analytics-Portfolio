@@ -1,8 +1,4 @@
-+ 📊 TALIP ÇOLAK – DATA ANALYTICS & BI PORTFOLIO
-+ 📈 Sales, Inventory & Marketing Performance Dashboards
-+ 🎯 Goal: End-to-end visibility on traffic, sales, inventory and profitability
-+ 📚 Data sources: GA4, Bing Ads, internal sales & inventory data
-
++ 📊 TALIP COLAK – DATA ANALYTICS & BI PORTFOLIO
 
 # 1) Session Source / Medium (GA4 Sessions)
 • Tracks sessions, users, engagement and acquisition funnel (session → engaged → ATC → purchase).
